@@ -32,3 +32,10 @@ Related Links:
 - Last.fm
 - http://www.alfredapp.com/
 - http://www.alfredforum.com/topic/2257-dj-pedro-itunes-playlist-based-on-lastfm-similar-artists/
+
+
+Changelog:
+
+v1.01 - Extended timeout to 120 seconds to account for slower connections to Last.fm
+
+v1.0 - Full release with Alleyoop support. (http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/)

@@ -1,5 +1,5 @@
 {
-    "version": 1.01,
+    "version": 1.02,
     "download_url": "https://github.com/dotson/DJ-Pedro/raw/master/DJ%20Pedro.alfredworkflow",
-    "description": "Extended timeout to 120 seconds to account for slower connections to Last.fm."
+    "description": "Renamed djsetup to djprefs. Fixed small typo in script."
 }

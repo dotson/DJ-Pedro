@@ -36,6 +36,13 @@ Related Links:
 
 Changelog:
 
+v1.04 - Now when DJ Pedro runs into errors with low similar artist counts, he finds a way to fill up your playlist instead of just quitting the workflow. 
+	 - Added a feature where holding down 'alt' when selecting your DJ Artist, DJ Pedro will simply create a separate playlist for you to view. This lets you see what DJ Pedro thinks would be a good playlist, without affecting what you're currently listening to.
+
+v1.03 - Now includes ability to add multiple tracks by an artist in a given playlist. This should reduce the amount of "Oops!" errors for smaller iTunes libraries or any specific artist the user has only a few 'similar artists' for. This option is configurable in the "djprefs" window.
+
+v1.02 - Renamed "djsetup" to "djprefs". Fixed small typo in script.
+
 v1.01 - Extended timeout to 120 seconds to account for slower connections to Last.fm
 
 v1.0 - Full release with Alleyoop support. (http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/)

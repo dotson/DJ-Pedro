@@ -36,6 +36,8 @@ Related Links:
 
 Changelog:
 
+v1.10 - Big update! Re-written majority of code for improved speed and error-handling to help DJ Pedro fill playlists and provide feedback when he finds fewer similar artists in the iTunes Library. Improved soft-search handling in Last.fm requests (DJ Pedro should be able to find artists at Last.fm even with slight errors in user library naming conventions). Huge improvement to the UX of the preferences pane.
+
 v1.04 - Now when DJ Pedro runs into errors with low similar artist counts, he finds a way to fill up your playlist instead of just quitting the workflow. 
 	 - Added a feature where holding down 'alt' when selecting your DJ Artist, DJ Pedro will simply create a separate playlist for you to view. This lets you see what DJ Pedro thinks would be a good playlist, without affecting what you're currently listening to.
 

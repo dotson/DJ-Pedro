@@ -1,4 +1,5 @@
-DJ Pedro v1.2
+*DJ Pedro v1.2*
+
 Create iTunes playlist based on Last.fm similar artists
  
 This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.

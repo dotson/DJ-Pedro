@@ -1,6 +1,5 @@
 {
-    "version": 1.11,
+    "version": 1.2,
     "download_url": "https://github.com/dotson/DJ-Pedro/raw/master/DJ%20Pedro.alfredworkflow",
-    "description": "Fixed typo in settings. If you experience error, erase settings.plist is Workflow Data folder.
-"
+    "description": "Big update to notification system. DJ Pedro now shows his progress, and displays a clickable list of suggested artists in Alfred on completion."
 }

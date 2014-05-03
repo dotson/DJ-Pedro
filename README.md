@@ -5,7 +5,7 @@ DJ Pedro v1.3
  
 This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.
   
-The workflow is triggered by hotkey of the keyword *"dj”*. If an argument is added, the workflow searches your iTunes library for artists that match the query.
+The workflow is triggered by hotkey or the keyword *"dj”*. If an argument is added, the workflow searches your iTunes library for artists that match the query.
  
 
 Settings for the workflow can be modified by triggering the *"djprefs"* script filter. Available modifications are:

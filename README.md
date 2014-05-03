@@ -1,18 +1,18 @@
-DJ Pedro v1.2
+DJ Pedro v1.3
 =============
 
 *Create iTunes playlist based on Last.fm similar artists*
  
 This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.
   
-The workflow is triggered by keyword *"dj"* and if an argument is added, the workflow searches your iTunes library for artists that match the query.
+The workflow is triggered by hotkey of the keyword *"dj”*. If an argument is added, the workflow searches your iTunes library for artists that match the query.
  
 
 Settings for the workflow can be modified by triggering the *"djprefs"* script filter. Available modifications are:
-- Playlist name
-- Number of tracks in the created playlist
+- Playlist name.
+- Playlist length.
 - Search limit for 'similar artists' the workflow requests from Last.fm.
-- Enable/disable the progress notifications in Alfred's window.
+- Maximum tracks per artist added to the playlist.
 - Enable/disable the notification that lists any artists suggested by Last.fm that were not found in your Library.
 
 **Credits/Acknowledgments:**
@@ -26,6 +26,9 @@ Settings for the workflow can be modified by triggering the *"djprefs"* script f
 This workflow creates a folder in your iTunes folder called "Alfred Album Artwork" for easy access to album artwork icons. This folder should be extremely small and is easily deleted if you delete the workflow.
  
 **Changelog:**
+v1.3 - Wiped away all the cobwebs, increased speed and reliability of the various searches, and fixed Mavericks-related bugs. Revamped the preference pane and the final notification system.
+
+v1.21 - Removed notification system as Mavericks broked it. :-(
 
 v1.2 - Big update to notification system. DJ Pedro now shows his progress, and displays a clickable list of suggested artists in Alfred on completion.
 

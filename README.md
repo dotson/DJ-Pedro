@@ -1,10 +1,6 @@
-DJ Pedro v1.4
-=============
-*Create iTunes playlist based on Last.fm similar artists*
+DJ Pedro v1.4.1
+Create iTunes playlist based on Last.fm similar artists
  
-*I highly recommend downloading this from Packal as they provide an updating feature for future versions of the workflow.
-http://www.packal.org/workflow/dj-pedro*
-
 This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.
   
 The workflow is triggered by hotkey or the keyword "dj" and if an argument is added, the workflow searches your iTunes library for artists that match the query.
@@ -16,28 +12,26 @@ Settings for the workflow can be modified by triggering the "djprefs" script fil
 - Maximum tracks per artist added to the playlist.
 - Enable/disable the notification that lists any artists suggested by Last.fm that were not found in your Library.
 
-**Credits/Acknowledgments:**
+New in v1.4.1, from the DJ Pedro Suggested Artist list it is possible to trigger external workflows, Discogs Explorer and Last.fm Look-up, via modifier keys ‘alt’ and ‘cntl’. Sweet!
+
+Credits/Acknowledgments:
 - Much of the script for displaying artists and their artwork was borrowed from the great "Play Song" workflow, by "caleb531", which you should download if you don't have it yet.
 - Additional scripting was improved by using the qWorkflow library developed by "ursanrazvan".
-- Yes, DJ Pedro is named after our cat.
+- DJ Pedro is named after our cat.
  
-**Notes:**
+Notes:
 - This workflow creates a folder in your iTunes folder called "Alfred Album Artwork" for easy access to album artwork icons. This folder should be extremely small and is easily deleted if you delete the workflow.
  
-**Changelog:**
-- **v1.4** Bug fix due to how Yosemite creates plist files. This bug would only affect new users of the workflow. New icon because why not (modified from here:http://www.alessioatzeni.com/metrize-icons/). Added ability to send suggested artist to Last.fm Loo-Up or Discogs Explorer workflows.
+Changelog:
+- **1.4.1 - Added new Alfred Remote triggers and remote page. Current triggers are: create playlist based on current iTunes track and open DJ Pedro preferences window. More remote features on the way! Additional feature includes external triggers via ‘alt’ and ‘cntl’ to connect results from DJ Pedro’s artist suggestion window to my other workflows: Last.fm Look-Up (v1.02) and Discogs Explorer (v1.12).
+- **v1.4 - Bug fix due to how Yosemite creates plist files. This bug would only affect new users of the workflow. New icon because why not (modified from here:http://www.alessioatzeni.com/metrize-icons/). Added ability to send suggested artist to Last.fm Loo-Up or Discogs Explorer workflows.
 - **v1.3** Wiped away all the cobwebs, increased speed and reliability of the various searches, and fixed Mavericks-related bugs. Revamped the preference pane and the final notification system.
-- **v1.21** Removed notification system as Mavericks broked it. :-(
-- **v1.2** Big update to notification system. DJ Pedro now shows his progress, and displays a clickable list of suggested artists in Alfred on completion.
+- **v1.21** Removed notification system as Mavericks broke it. :-(
+- **v1.2 - Big update to notification system. DJ Pedro now shows his progress, and displays a clickable list of suggested artists in Alfred on completion.
 - **v1.11** Fixed typo in settings. If you experience error, erase settings.plist is Workflow Data folder.
-- **v1.3** Wiped away all the cobwebs, increased speed and reliability of the various searches, and fixed Mavericks-related bugs. Revamped the preference pane and the final notification system.
-- **v1.21** Removed notification system as Mavericks broked it. :-(
-- **v1.2** Big update to notification system. DJ Pedro now shows his progress, and displays a clickable list of suggested artists in Alfred on completion.
-- **v1.11** Fixed typo in settings. If you experience errors, erase settings.plist in Workflow Data folder.
 - **v1.10** Big update! Re-written majority of code for improved speed and error-handling to help DJ Pedro fill playlists and provide feedback when he finds fewer similar artists in the iTunes Library. Improved soft-search handling in Last.fm requests (DJ Pedro should be able to find artists at Last.fm even with slight errors in user library naming conventions). Huge improvement to the UX of the preferences pane.
 - **v1.04** Now when DJ Pedro runs into errors with low similar artist counts, he finds a way to fill up your playlist instead of just quitting the workflow. Added a feature where holding down 'alt' when selecting your DJ Artist, DJ Pedro will simply create a separate playlist for you to view. This lets you see what DJ Pedro thinks would be a good playlist, without affecting what you're currently listening to.
 - **v1.03** Now includes ability to add multiple tracks by an artist in a given playlist. This should reduce the amount of "Oops!" errors for smaller iTunes libraries or any specific artist the user has only a few 'similar artists' for. This option is configurable in the "djprefs" window.
 - **v1.02** Renamed "djsetup" to "djprefs". Fixed small typo in script.
 - **v1.01** Extended timeout to 120 seconds to account for slower connections to Last.fm
-- **v1.0** Full release with Alleyoop support. (http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/)
 - **v1.0** Full release with Alleyoop support. (http://www.alfredforum.com/topic/1582-alleyoop-update-alfred-workflows/)

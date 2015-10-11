@@ -1,4 +1,4 @@
-DJ Pedro v1.4.1
+DJ Pedro v1.4.2
 Create iTunes playlist based on Last.fm similar artists
  
 This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.
@@ -23,6 +23,7 @@ Notes:
 - This workflow creates a folder in your iTunes folder called "Alfred Album Artwork" for easy access to album artwork icons. This folder should be extremely small and is easily deleted if you delete the workflow.
  
 Changelog:
+- **1.4.2 - Attempt to bypass the broken Last.fm APIs. Generally rebuilt the code base to be more efficient.
 - **1.4.1 - Added new Alfred Remote triggers and remote page. Current triggers are: create playlist based on current iTunes track and open DJ Pedro preferences window. More remote features on the way! Additional feature includes external triggers via ‘alt’ and ‘cntl’ to connect results from DJ Pedro’s artist suggestion window to my other workflows: Last.fm Look-Up (v1.02) and Discogs Explorer (v1.12).
 - **v1.4 - Bug fix due to how Yosemite creates plist files. This bug would only affect new users of the workflow. New icon because why not (modified from here:http://www.alessioatzeni.com/metrize-icons/). Added ability to send suggested artist to Last.fm Loo-Up or Discogs Explorer workflows.
 - **v1.3** Wiped away all the cobwebs, increased speed and reliability of the various searches, and fixed Mavericks-related bugs. Revamped the preference pane and the final notification system.

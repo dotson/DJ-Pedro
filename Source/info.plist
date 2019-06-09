@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleid</key>
+	<string>com.dotson.DJPedro</string>
+	<key>connections</key>
+	<dict>
+		<key>266A8884-9CA1-4AD5-8B10-2DB2D56228FF</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>427D7C95-5D23-4919-9759-1EF045A39827</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>354EE7EE-B549-4132-8DB3-23AEB993A298</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>3C984311-F7D5-4F5D-9F93-2E922E7126D2</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>427D7C95-5D23-4919-9759-1EF045A39827</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>8E648D08-97E2-4653-BD53-2C7AFC3D81F1</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>4E667A72-4A57-4265-BC81-248BA948029E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>610A29EF-D17F-4EE1-B393-EF9258BDFBCB</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>527A13B7-56F1-40E0-954C-9CBA2804D266</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E5D0ECF2-8979-47A0-8D52-FCAB6F523C0E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>610A29EF-D17F-4EE1-B393-EF9258BDFBCB</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>6C68D0BB-A89A-4FDD-BB99-B5A5B460646E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>23CE56C4-CE82-498F-9DEA-9E7BE23E79D7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6C557C8B-1FB7-4CA3-9913-560E505BC9A8</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E469295A-B442-434E-AB28-032646DC376B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>6C68D0BB-A89A-4FDD-BB99-B5A5B460646E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E469295A-B442-434E-AB28-032646DC376B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>20E2A8FE-A571-406F-A330-41C0F738A587</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>Create a playlist, but don't play it.</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7ABF3725-70A6-4A75-92B6-3DD493E905AA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>A078B846-702F-4D5B-AA04-19800006B925</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D982E1FD-52B5-44BB-AC70-BABAFEF987CD</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>D213B216-4B2D-463A-8587-FA41698851D5</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>8890D249-41B4-4281-AD5C-D983B129ECCA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EF6A359C-FD1C-4D85-A9DA-10644BDA9460</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E469295A-B442-434E-AB28-032646DC376B</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>A078B846-702F-4D5B-AA04-19800006B925</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>527A13B7-56F1-40E0-954C-9CBA2804D266</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D213B216-4B2D-463A-8587-FA41698851D5</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>427D7C95-5D23-4919-9759-1EF045A39827</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D332077E-D652-477F-B22C-825B20960CC1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>354EE7EE-B549-4132-8DB3-23AEB993A298</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D982E1FD-52B5-44BB-AC70-BABAFEF987CD</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>427D7C95-5D23-4919-9759-1EF045A39827</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E469295A-B442-434E-AB28-032646DC376B</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EAAE0C87-97FB-457A-AF41-EDDD70CBAC51</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>A6467502-B9CB-476B-A8DB-B35BA96F7318</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E5883469-5EEE-4730-B4CA-FE922BC72C13</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>354EE7EE-B549-4132-8DB3-23AEB993A298</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>E5D0ECF2-8979-47A0-8D52-FCAB6F523C0E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>266A8884-9CA1-4AD5-8B10-2DB2D56228FF</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EAAE0C87-97FB-457A-AF41-EDDD70CBAC51</key>
+		<array/>
+		<key>F18028CB-89A2-4459-B8DB-F447CA8D0449</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>F3C1ED80-31F3-4B6D-83C2-3BF7D1D3E5C4</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>E8CEAAE3-6E9A-4D36-ABE2-8C5EC52DD99B</string>
+				<key>modifiers</key>
+				<integer>524288</integer>
+				<key>modifiersubtext</key>
+				<string>View in Last.fm Look Up workflow.</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>BD903225-E46F-498C-BFD1-E82692C7D86B</string>
+				<key>modifiers</key>
+				<integer>262144</integer>
+				<key>modifiersubtext</key>
+				<string>View in Discogs Explorer workflow.</string>
+				<key>vitoclose</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<key>createdby</key>
+	<string>C. Dotson</string>
+	<key>description</key>
+	<string>Create an iTunes playlist based on Last.fm's Similar Artist feature.</string>
+	<key>disabled</key>
+	<false/>
+	<key>name</key>
+	<string>DJ Pedro</string>
+	<key>objects</key>
+	<array>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>nowplaying</string>
+				<key>argumenttype</key>
+				<integer>3</integer>
+				<key>triggerid</key>
+				<string>djpedro_np</string>
+				<key>triggername</key>
+				<string>Now Playing</string>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>8890D249-41B4-4281-AD5C-D983B129ECCA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Remote playlist created!</string>
+				<key>title</key>
+				<string>Dj Pedro</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>EF6A359C-FD1C-4D85-A9DA-10644BDA9460</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>returnAlt</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>6C557C8B-1FB7-4CA3-9913-560E505BC9A8</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>-- PLAYLIST CREATOR --
+
+property apiKey : "99555f4ba834f2b81508f02fd5679fdd"
+
+set query to "{query}"
+
+set workflowFolder to do shell script "pwd"
+set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")
+set wf to wlib's new_workflow()
+
+set plist to "settings_v3.plist"
+set alt to false
+set theDJPlaylist to wf's get_value("theDJPlaylist", plist)
+if wf's get_value("alt", plist) is true then
+	set alt to true
+	set theDJPlaylist to theDJPlaylist &amp; " alt"
+end if
+set playlistSize to wf's get_value("theDJPlaylistSize", plist)
+set artistLimit to wf's get_value("theSearchLimit", plist)
+set addedArtist_repeat to wf's get_value("addedArtist_repeat", plist)
+set showMissing to wf's get_value("showMissing", plist)
+
+set chosenPlaylist to 2 -- the playlist from which to search (2 = default music playlist)
+set seedArtist to ""
+set requestArtistList to {}
+set requestCount to 0
+set xmlFile to "importLastFmPlaylistTemp.xml"
+set simList to {}
+set simListRef to a reference to simList
+set addedList to {}
+set notFoundList to {}
+set startTime to current date
+set myTimeout to 30
+
+set returnText to "Enjoy your playlist!"
+set getSimilarLink to "http://ws.audioscrobbler.com/2.0/?method=artist.getSimilar&amp;autocorrect=1&amp;api_key=" &amp; apiKey &amp; "&amp;artist="
+
+on clean_item(thisText)
+	set thisText to my replace_chars(thisText, " / ", " and ")
+	--	set thisText to my replace_chars(thisText, " and ", " and ")
+	set thisText to my replace_chars(thisText, " &amp; ", " and ")
+	set thisText to my replace_chars(thisText, " + ", " and ")
+	set thisText to my replace_chars(thisText, ",", "and")
+	return thisText
+end clean_item
+
+on replace_chars(this_text, search_string, replacement_string)
+	set AppleScript's text item delimiters to the search_string
+	set the item_list to every text item of this_text
+	set AppleScript's text item delimiters to the replacement_string
+	set this_text to the item_list as string
+	set AppleScript's text item delimiters to ""
+	return this_text
+end replace_chars
+
+on trim_list(bigList, trimCount)
+	if (length of bigList) is 0 then return {}
+	if (length of bigList) is less than trimCount then
+		set smallCount to (length of bigList)
+	else
+		set smallCount to trimCount
+	end if
+	set smallList to items 1 thru smallCount of bigList
+	return smallList
+end trim_list
+
+on remove_match(searchItem, oldList)
+	set newList to ""
+	repeat with i from 1 to (length of oldList)
+		if item i of oldList is searchItem then
+			set newList to my remove_item(i, oldList)
+		end if
+		if newList is "" then
+			set newList to oldList
+		end if
+	end repeat
+	return newList
+end remove_match
+
+on remove_item(itemNumber, oldList)
+	set newList to {}
+	repeat with i from 1 to (itemNumber - 1)
+		set the end of newList to item i of oldList
+	end repeat
+	if itemNumber is less than (length of oldList) then
+		repeat with i from (itemNumber + 1) to (length of oldList)
+			set the end of newList to item i of oldList
+		end repeat
+	end if
+	return newList
+end remove_item
+
+on fill_playlist(thePlaylist, myPlaylist, addList, theSize)
+	tell application "iTunes"
+		set fullList to {}
+		repeat with i from 1 to length of addList
+			set fullArtist to musician of item i of addList
+			set myList to (search playlist thePlaylist for fullArtist only artists)
+			repeat with ii from 1 to (length of myList)
+				set the end of fullList to (item ii of myList)
+			end repeat
+		end repeat
+		if theSize is greater than (length of fullList) then
+			set playlistLength to (length of fullList)
+			set playlistSize to (length of fullList)
+		else
+			set playlistLength to theSize
+		end if
+		set thisPlaylist to user playlist myPlaylist
+		repeat while (exists track playlistLength of thisPlaylist) is false
+			if not (exists track playlistLength of thisPlaylist) then
+				set newArtistNum to random number from 1 to (length of addList)
+				set newArtist to musician of item newArtistNum of addList
+				set availIDs to availIDs of item newArtistNum of addList
+				set addedIDs to addedIDs of item newArtistNum of addList
+				if (length of availIDs) is greater than 0 then
+					set newItem to random number from 1 to (length of availIDs)
+					set newItemID to item newItem of availIDs
+					set end of addedIDs to newItemID
+					set availIDs to my remove_item(newItem, availIDs)
+					duplicate (some track whose database ID is newItemID) to thisPlaylist --Add the track!
+					set addedIDs of item newArtistNum of addList to addedIDs --Update ID list
+					set availIDs of item newArtistNum of addList to availIDs --Update ID list
+				end if
+			else
+				exit repeat
+			end if
+		end repeat
+	end tell
+end fill_playlist
+
+on displayMissing(wlib, wf, showMissing, notFoundList, plist)
+	if length of notFoundList is greater than 0 then
+		set notFoundList to my trim_list(notFoundList, 10)
+		set notFoundList to wlib's q_join(notFoundList, ",")
+		wf's set_value("theNotFoundList", notFoundList, plist)
+		
+		if showMissing then
+			tell application "Alfred 3" to search "⇾ Playlist Complete"
+		end if
+	end if
+end displayMissing
+
+try
+	tell application "iTunes"
+		
+		--		Part 0 - Check which trigger we're using
+		-- routine search, now playing remote trigger, or favorite remote trigger?
+		try
+			if query is "nowplaying" then
+				set seedSongID to database ID of current track
+			else
+				set seedSongID to query as integer
+			end if
+		end try
+		if query is "nowplaying" then
+			if application "iTunes" is running then
+				tell application "iTunes"
+					if player state is playing then
+						set seedSongID to database ID of current track
+					else
+						return "You need to start playing something to use this trigger."
+					end if
+				end tell
+			else
+				return "You need to start playing something to use this trigger."
+			end if
+		else
+			if item 1 of wlib's q_split(query, "_") is "fav" then
+				set thisFave to item 2 of wlib's q_split(query, "_")
+				if application "iTunes" is running then
+					tell application "iTunes"
+						set allSongsByFoundArtist to (search playlist chosenPlaylist for thisFave only artists)
+						if length of allSongsByFoundArtist is 0 then
+							return "Sorry, Artist Not Found."
+						else
+							set seedSongID to database ID of (some track of playlist chosenPlaylist whose artist is thisFave)
+						end if
+					end tell
+				end if
+			end if
+			
+		end if
+		
+		-- PART 1 - Set up seedArtist and Playlist --
+		
+		-- START -- Initialize some variables --
+		set seedSongList to (every track of playlist chosenPlaylist whose database ID is seedSongID)
+		set seedSong to item 1 of seedSongList
+		set seedName to name of seedSong
+		set seedArtist to (get artist of seedSong)
+		set seedArtist to my clean_item(seedArtist)
+		if length of wlib's q_split(seedArtist, " ") is 1 then
+			set seedIDList to (every track of playlist chosenPlaylist whose artist is seedArtist)
+		else
+			set seedIDList to (search playlist chosenPlaylist for seedArtist only artists)
+		end if
+		set seedAvailIDs to {}
+		repeat with i from 1 to (length of seedIDList)
+			if database ID of item i of seedIDList is not seedSongID then
+				set the end of seedAvailIDs to database ID of item i of seedIDList
+			end if
+		end repeat
+		set end of addedList to {musician:seedArtist, availIDs:seedAvailIDs, addedIDs:{seedSongID}}
+		set requestArtist to seedArtist
+		set the end of requestArtistList to seedArtist
+		-- END -- Initialize some variables --
+		
+		-- START -- Initialize the playlist --
+		if (exists user playlist theDJPlaylist) then
+			set thisPlaylist to user playlist theDJPlaylist
+		else
+			make new playlist with properties {name:theDJPlaylist}
+			set thisPlaylist to user playlist theDJPlaylist
+		end if
+		activate
+		reveal thisPlaylist
+		if player state is playing then
+			if name of current track is seedName then
+				if current playlist is user playlist theDJPlaylist then
+					delete (every track of thisPlaylist whose database ID is not seedSongID)
+				else
+					if (exists track 1 of thisPlaylist) then delete every track of thisPlaylist
+					duplicate seedSong to thisPlaylist
+				end if
+			else
+				if (exists track 1 of thisPlaylist) then delete every track of thisPlaylist
+				duplicate seedSong to thisPlaylist
+			end if
+		else
+			if (exists track 1 of thisPlaylist) then delete every track of thisPlaylist
+			duplicate seedSong to thisPlaylist
+		end if
+		-- END -- Initialize the playlist --
+		
+		repeat while (exists track playlistSize of playlist theDJPlaylist) is false
+			
+			-- PART 2 - Get XML from Last.fm
+			
+			tell application "System Events"
+				
+				set needAutocorrect to false
+				set requestCount to requestCount + 1
+				set requestArtist to item requestCount of requestArtistList
+				set requestArtist to wf's q_encode_url(requestArtist)
+				repeat while length of contents of simListRef is 0
+					
+					(*					
+					-- START -- Autocorrect artist name, if needed --
+					if needAutocorrect then
+						set lastfmLink to getArtistNameLink &amp; requestArtist
+						set requestedXML to wf's request(lastfmLink)
+						wf's write_file(requestedXML, xmlFile)
+						
+						set artistMatchXML to XML element "artistmatches" of XML element "results" of XML element "lfm" of contents of XML file (wf's get_data() &amp; xmlFile)
+						tell artistMatchXML
+							set theMaxCount to 0
+							repeat with thisElement from 1 to (count of XML elements)
+								set thisArtist to (value of (XML elements whose name is "name") of XML element thisElement) as string
+								set thisCount to (value of (XML elements whose name is "listeners") of XML element thisElement)
+								if thisCount is greater than theMaxCount then
+									set theMaxCount to thisCount
+									set requestArtist to thisArtist
+									set requestArtist to wf's q_encode_url(requestArtist)
+								end if
+							end repeat
+						end tell
+					end if
+					-- END -- Autocorrect artist name --
+*)
+					--					return requestArtist
+					set lastfmLink to getSimilarLink &amp; requestArtist
+					set requestedXML to wf's request(lastfmLink)
+					wf's write_file(requestedXML, xmlFile)
+					
+					try
+						set theXML to XML element "lfm" of contents of XML file (wf's get_data() &amp; xmlFile)
+						if exists XML element "similarartists" of theXML then
+							set simArtistXML to XML element "similarartists" of theXML
+							if exists XML element "artist" of simArtistXML then
+								tell simArtistXML
+									set thisLimit to artistLimit
+									set thisCount to (count of XML elements)
+									if thisCount is less than thisLimit then set thisLimit to thisCount
+									repeat with thisElement from 1 to thisLimit
+										set thisItem to (value of (XML elements whose name is "name") of XML element thisElement) as string
+										set thisItem to my clean_item(thisItem)
+										if contents of simListRef does not contain thisItem then
+											set the end of contents of simListRef to thisItem
+										end if
+									end repeat
+								end tell
+							end if
+						end if
+					end try
+					
+					if length of (contents of simListRef) is 0 then
+						if needAutocorrect then
+							if requestCount is 1 then
+								my fill_playlist(chosenPlaylist, theDJPlaylist, addedList, playlistSize)
+								my displayMissing(wlib, wf, false, notFoundList, plist)
+								return "Uh oh! Last.fm couldn't find this artist." &amp; return &amp; "Here's a playlist of their tracks to listen to while you check your spelling."
+							else
+								exit repeat
+							end if
+						else
+							set needAutocorrect to true
+						end if
+					else
+						set needAutocorrect to false
+						set requestArtist to wf's q_decode_url(requestArtist)
+						exit repeat
+					end if
+					
+				end repeat
+				
+			end tell
+			
+			-- PART 3 - Check Last.fm List vs. iTunes Library
+			tell application "iTunes"
+				repeat while (exists track playlistSize of playlist theDJPlaylist) is false
+					
+					-- START -- Purge List of artists not in Library
+					-- and add to the Not Found List --
+					set removeItemList to {}
+					repeat with i from 1 to (length of contents of simListRef)
+						set thisArtist to item i of contents of simListRef
+						if length of wlib's q_split(thisArtist, " ") is 1 then
+							set thisList to (every track of playlist chosenPlaylist whose artist is thisArtist)
+						else
+							set thisList to (search playlist chosenPlaylist for thisArtist only artists)
+						end if
+						if (length of thisList) is 0 then
+							if notFoundList does not contain thisArtist then
+								set the end of notFoundList to thisArtist
+							end if
+							set the end of removeItemList to i
+						end if
+					end repeat
+					repeat with i from (count of removeItemList) to 1 by -1
+						set removeThis to item i of removeItemList
+						set contents of simListRef to my remove_item(removeThis, contents of simListRef)
+					end repeat
+					-- END -- Purge List of artists not in library --
+					
+					-- START -- If List is empty after first purge
+					if (length of contents of simListRef) is 0 then
+						if requestCount is 1 then
+							my fill_playlist(chosenPlaylist, theDJPlaylist, addedList, playlistSize)
+							my displayMissing(wlib, wf, showMissing, notFoundList, plist)
+							return "Uh oh!!" &amp; return &amp; return &amp; "I couldn't find any similar artists in your Library!" &amp; return &amp; "Try increasing your search limit. (Or buy more music!)"
+						else
+							my fill_playlist(chosenPlaylist, theDJPlaylist, addedList, playlistSize)
+							my displayMissing(wlib, wf, showMissing, notFoundList, plist)
+							return "I couldn't find very many artists in your Library, but here's a playlist with a few."
+						end if
+					else
+						set the beginning of contents of simListRef to requestArtist
+					end if
+					-- END -- If List is empty --
+					
+					-- START -- Remove any artists who've been added the max number of times
+					-- or remove if we ran out of tracks by an artist
+					set thisAddList to {}
+					repeat with i from 1 to (length of addedList)
+						set the end of thisAddList to musician of item i of addedList
+					end repeat
+					set thisCount to (length of contents of simListRef)
+					repeat with i from thisCount to 1 by -1
+						if thisAddList contains item i of contents of simListRef then
+							repeat with ii from 1 to (length of addedList)
+								if item ii of thisAddList is item i of contents of simListRef then
+									if length of (addedIDs of item ii of addedList) is addedArtist_repeat then
+										set contents of simListRef to my remove_item(i, contents of simListRef)
+										exit repeat
+									end if
+									if length of (availIDs of item ii of addedList) is 0 then
+										set contents of simListRef to my remove_item(i, contents of simListRef)
+										exit repeat
+									end if
+								end if
+							end repeat
+						end if
+						set thisCount to (length of contents of simListRef)
+					end repeat
+					-- END -- Remove any artists who've repeated the max number of times --
+					
+					if (length of contents of simListRef) is 0 then
+						if requestCount is 1 then
+							-- START -- If simList is empty after second purge
+							my fill_playlist(chosenPlaylist, theDJPlaylist, addedList, playlistSize)
+							my displayMissing(wlib, wf, showMissing, notFoundList, plist)
+							return "I couldn't find very many artists in your Library, but here's a playlist with a few."
+							-- END -- If List is empty --
+						else
+							exit repeat
+						end if
+					else
+						-- If we have some artists to work with, move to next part
+						repeat with i from 1 to (length of contents of simListRef)
+							set eachArtist to item i of (contents of simListRef)
+							if requestArtistList does not contain eachArtist then
+								set the end of requestArtistList to eachArtist
+							end if
+						end repeat
+						exit repeat
+					end if
+				end repeat
+			end tell
+			
+			-- PART 4 - Build a playlist with the list
+			tell application "iTunes"
+				repeat while (exists track playlistSize of playlist theDJPlaylist) is false
+					
+					-- TIMEOUT --
+					if (current date) &gt; startTime + myTimeout then
+						my fill_playlist(chosenPlaylist, theDJPlaylist, addedList, playlistSize)
+						my displayMissing(wlib, wf, false, notFoundList, plist)
+						return "Oops, something was taking way too long." &amp; return &amp; "Check your settings and internet connection, then give it another shot."
+					end if
+					-- END TIMEOUT --
+					
+					if (length of contents of simListRef) is 0 then exit repeat
+					
+					-- Pick random artist from List
+					set newItem to random number from 1 to (length of contents of simListRef)
+					set newArtist to item newItem of contents of simListRef
+					
+					-- START -- Check if we added this artist already --
+					set addedAlready to false
+					set newAddedItem to ""
+					set availIDs to {}
+					repeat with i from 1 to (length of addedList)
+						if musician of item i of addedList is newArtist then
+							set addedAlready to true
+							set newAddedItem to i
+							set availIDs to availIDs of item newAddedItem of addedList
+							set addedIDs to addedIDs of item newAddedItem of addedList
+							exit repeat
+						end if
+					end repeat
+					-- END -- Check if we added this artist already --
+					
+					if addedAlready then
+						if (length of addedIDs) is less than addedArtist_repeat then
+							if (length of availIDs) is greater than 0 then
+								set thisItem to random number from 1 to (length of availIDs)
+								set thisID to item thisItem of availIDs
+								duplicate (some track whose database ID is thisID) to thisPlaylist
+								set the end of addedIDs of item newAddedItem of addedList to thisID
+								set addedIDs to addedIDs of item newAddedItem of addedList
+								set availIDs to my remove_item(thisItem, availIDs)
+								set availIDs of item newAddedItem of addedList to availIDs
+							end if
+						end if
+					else
+						if notFoundList does not contain newArtist then
+							if length of wlib's q_split(newArtist, " ") is 1 then
+								set newTracks to (every track of playlist chosenPlaylist whose artist is newArtist)
+							else
+								set newTracks to (search playlist chosenPlaylist for newArtist only artists)
+							end if
+							if length of newTracks is greater than 0 then
+								repeat with i from 1 to (length of newTracks)
+									set the end of availIDs to (database ID of item i of newTracks)
+								end repeat
+								set thisItem to random number from 1 to (length of availIDs)
+								set thisID to item thisItem of availIDs
+								set availIDs to my remove_item(thisItem, availIDs)
+								set addedIDs to {thisID}
+								set end of addedList to {musician:newArtist, availIDs:availIDs, addedIDs:addedIDs}
+								duplicate (some track whose database ID is thisID) to thisPlaylist
+							else
+								set the end of notFoundList to newArtist
+							end if
+						end if
+					end if
+					
+					if length of addedIDs is addedArtist_repeat then
+						set contents of simListRef to my remove_match(newArtist, contents of simListRef)
+					end if
+					if length of availIDs is 0 then
+						set contents of simListRef to my remove_match(newArtist, contents of simListRef)
+					end if
+					
+				end repeat
+			end tell
+			
+		end repeat
+		
+		if alt is false then
+			if player state is playing then
+				if database ID of current track is seedSongID then
+					set thisMoment to player position
+					play thisPlaylist
+					set player position to thisMoment
+				end if
+			else
+				play thisPlaylist
+				
+			end if
+		end if
+	end tell
+on error errText
+	return "Step 2 Error: " &amp; errText
+end try
+
+my displayMissing(wlib, wf, showMissing, notFoundList, plist)
+return returnText</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E469295A-B442-434E-AB28-032646DC376B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Dj Pedro</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>EAAE0C87-97FB-457A-AF41-EDDD70CBAC51</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")set wf to wlib's new_workflow()set query to "{query}"wf's set_value("alt", true, "settings_v3.plist")
+tell application "Alfred 3" to run trigger "returnAlt" in workflow "com.dotson.DJPedro" with argument query</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>20E2A8FE-A571-406F-A330-41C0F738A587</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>keyword</key>
+				<string>dj</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Search my iTunes library for {query}</string>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"
+set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")
+set wf to wlib's new_workflow()
+
+set query to "{query}"
+
+-- START - INITIALIZE THE PLIST, REMOVE OLD VERSIONS --
+try
+	-- Remove very old plist files --
+	tell application "Finder"
+		set oldPlist to (path to application support from user domain as string)
+		set oldPlist to oldPlist &amp; "Alfred 3:Workflow Data:" &amp; wf's get_bundle() &amp; ":settings.plist"
+		if wlib's q_file_exists(oldPlist) then delete file (oldPlist)
+		
+		set oldPlist to (path to application support from user domain as string)
+		set oldPlist to oldPlist &amp; "Alfred 3:Workflow Data:" &amp; wf's get_bundle() &amp; ":settings_v2.plist"
+		if wlib's q_file_exists(oldPlist) then delete file (oldPlist)
+		
+	end tell
+on error errText
+	return "Step 1 Error: " &amp; errText
+end try
+set preflist to {"theDJPlaylist", "theDJPlaylistSize", "theSearchLimit", "addedArtist_repeat", "showMissing", "theNotFoundList", "alt", "theSaveFolder", "autoSave"}
+set prefvals to {"DJ Pedro", 30, 40, 5, true, "", false, "DJ Pedro Mixes", false}
+repeat with i from 1 to (count of preflist)
+	set mypref to item i of preflist
+	set myval to item i of prefvals
+	if wf's get_value(mypref, "settings_v3.plist") is missing value then wf's set_value(mypref, myval, "settings_v3.plist")
+end repeat
+if wf's get_value("showMissing", "settings_v3.plist") is "enabled" then wf's set_value("showMissing", true, "settings_v3.plist")
+if wf's get_value("showMissing", "settings_v3.plist") is "disabled" then wf's set_value("showMissing", false, "settings_v3.plist")
+if wf's get_value("autoSave", "settings_v3.plist") is "enabled" then wf's set_value("autoSave", true, "settings_v3.plist")
+if wf's get_value("autoSave", "settings_v3.plist") is "disabled" then wf's set_value("autoSave", false, "settings_v3.plist")
+
+set plist to "settings_v3.plist"
+set theDJPlaylist to wf's get_value("theDJPlaylist", plist)
+set playlistSize to wf's get_value("theDJPlaylistSize", plist)
+set artistLimit to wf's get_value("theSearchLimit", plist)
+set addedArtist_repeat to wf's get_value("addedArtist_repeat", plist)
+set showMissing to wf's get_value("showMissing", plist)
+set theSaveFolder to wf's get_value("theSaveFolder", plist)
+set autoSaves to wf's get_value("autoSave", plist)
+-- END - INITIALIZE THE PLIST, REMOVE OLD VERSIONS --
+
+-- INIT variables, folders, and functions
+set musicFolder to (path to music folder as text)
+set itunesFolder to (musicFolder &amp; "iTunes:")
+set artworkFolderName to "Alfred Album Artwork"
+set artworkPath to (itunesFolder &amp; artworkFolderName &amp; ":")
+set songArtworkPath to "icon.png"
+set homeFolder to (path to home folder as text)
+
+set albumArtEnabled to true -- whether or not to retrieve album artwork for each result
+set chosenPlaylist to 2 -- the playlist from which to search (2 = default music playlist)
+
+-- Create album artwork folder if it does not exist
+if albumArtEnabled is true then
+	tell application "Finder"
+		if not (alias artworkPath exists) then
+			make new folder in itunesFolder with properties {name:artworkFolderName}
+		end if
+	end tell
+end if
+
+-- DISPLAY CURRENT ITUNES TRACK AND SEARCH RESULTS --
+
+-- INIT some variables
+wf's set_value("alt", false, "settings_v3.plist")
+
+-- replace substring in string with another substring
+on replace_chars(this_text, search_string, replacement_string)
+	set AppleScript's text item delimiters to the search_string
+	set the item_list to every text item of this_text
+	set AppleScript's text item delimiters to the replacement_string
+	set this_text to the item_list as string
+	set AppleScript's text item delimiters to ""
+	return this_text
+end replace_chars
+
+on simple_sort(my_list)
+	set the index_list to {}
+	set the sorted_list to {}
+	repeat (the number of items in my_list) times
+		set the low_item to ""
+		repeat with i from 1 to (number of items in my_list)
+			if i is not in the index_list then
+				set this_item to item i of my_list as text
+				if the low_item is "" then
+					set the low_item to this_item
+					set the low_item_index to i
+				else if this_item comes before the low_item then
+					set the low_item to this_item
+					set the low_item_index to i
+				end if
+			end if
+		end repeat
+		set the end of sorted_list to the low_item
+		set the end of the index_list to the low_item_index
+	end repeat
+	return the sorted_list
+end simple_sort
+
+-- save and recall album art file path
+on get_art(thisSong, thisArtist, thisAlbum, artworkPath)
+	tell application "Finder"
+		-- generate a unique identifier for current album
+		set thisArtworkName to (thisArtist &amp; "_" &amp; thisAlbum) as text
+		-- replace forbidden characters
+		set thisArtworkName to my replace_chars(thisArtworkName, ":", "")
+		set thisArtworkName to my replace_chars(thisArtworkName, "/", "")
+		set thisArtworkName to my replace_chars(thisArtworkName, ".", "")
+		set thisArtworkPath to (artworkPath &amp; thisArtworkName &amp; ".jpg")
+		
+		-- cache artwork if it's not already cached
+		if not (thisArtworkPath exists) then
+			tell application "iTunes"
+				-- only save artwork if artwork exists for this song
+				set theseArtworks to artworks of thisSong
+				if (length of theseArtworks) is 0 then
+					set thisArtworkPath to "icon.png"
+				else
+					-- save artwork to file
+					set thisArtwork to data of (item 1 of theseArtworks)
+					set fileRef to open for access thisArtworkPath with write permission
+					write thisArtwork to fileRef
+					close access fileRef
+				end if
+			end tell
+		end if
+	end tell
+	return thisArtworkPath
+end get_art
+
+if length of query is less than 3 then
+	add_result of wf with isValid given theUid:"", theArg:"", theTitle:"DJ Pedro", theAutocomplete:"", theSubtitle:"Search for an artist to start the mix!", theIcon:"", theType:""
+end if
+
+-- search iTunes library for the given query
+if length of query is less than 1 then
+	if application "iTunes" is running then
+		tell application "iTunes"
+			
+			if player state is playing then
+				set thisSong to current track
+				set songId to database ID of thisSong
+				set songName to name of thisSong
+				set songArtist to artist of thisSong
+				set songAlbum to album of thisSong
+				set songGenre to genre of thisSong
+				if albumArtEnabled then
+					set songArtworkPath to my get_art(thisSong, songArtist, songAlbum, artworkPath)
+				end if
+				
+				-- add information to XML
+				if songArtworkPath begins with my homeFolder then set songArtworkPath to POSIX path of songArtworkPath
+				add_result of wf with isValid given theUid:"", theArg:songId, theTitle:"Create playlist based on current track:", theAutocomplete:"", theSubtitle:songArtist &amp; " - " &amp; songName &amp; " (" &amp; songGenre &amp; ")", theIcon:songArtworkPath, theType:""
+			end if
+		end tell
+	end if
+end if
+
+-- search iTunes library for the given query
+if length of query is greater than 2 then
+	
+	tell application "iTunes"
+		set artistIndex to 0
+		set artistList to {}
+		--search below returns a list of every song by every found artist--
+		set allSongsByFoundArtists to (search playlist chosenPlaylist for query only artists)
+		-- inform user if no results were found
+		if length of allSongsByFoundArtists is 0 then
+			add_result of wf with isValid given theUid:"", theArg:"", theTitle:"DJ Pedro says:", theAutocomplete:"", theSubtitle:"Sorry, no results found for '" &amp; query &amp; "'", theIcon:"", theType:""
+		else
+			
+			-- Get Artist List
+			repeat with eachSong in allSongsByFoundArtists
+				if artistIndex is greater than artistLimit then
+					exit repeat
+				end if
+				set songArtist to artist of eachSong
+				if songArtist is not in artistList then
+					set artistList to artistList &amp; songArtist
+					set artistIndex to artistIndex + 1
+				end if
+			end repeat
+			
+			set artistList to my simple_sort(artistList)
+			
+			-- Generate XML
+			repeat with eachArtist in artistList
+				set thisSong to (some track of playlist chosenPlaylist whose artist is eachArtist)
+				set songId to database ID of thisSong
+				set songName to name of thisSong
+				set songAlbum to album of thisSong
+				set songGenre to genre of thisSong
+				if albumArtEnabled then
+					set songArtworkPath to my get_art(thisSong, eachArtist, songAlbum, artworkPath)
+				end if
+				if songArtworkPath begins with my homeFolder then
+					set songArtworkPath to POSIX path of songArtworkPath
+				end if
+				add_result of wf with isValid given theUid:"", theArg:songId, theTitle:eachArtist, theAutocomplete:eachArtist, theSubtitle:songGenre, theIcon:songArtworkPath, theType:""
+			end repeat
+			
+		end if
+		
+	end tell
+end if
+
+-- return XML data
+wf's to_xml("")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Search for an artist to start the mix!</string>
+				<key>title</key>
+				<string>DJ Pedro</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>6C68D0BB-A89A-4FDD-BB99-B5A5B460646E</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>action</key>
+				<integer>0</integer>
+				<key>argument</key>
+				<integer>0</integer>
+				<key>focusedappvariable</key>
+				<false/>
+				<key>focusedappvariablename</key>
+				<string></string>
+				<key>hotkey</key>
+				<integer>35</integer>
+				<key>hotmod</key>
+				<integer>1310720</integer>
+				<key>hotstring</key>
+				<string>P</string>
+				<key>leftcursor</key>
+				<false/>
+				<key>modsmode</key>
+				<integer>0</integer>
+				<key>relatedAppsMode</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.hotkey</string>
+			<key>uid</key>
+			<string>4E667A72-4A57-4265-BC81-248BA948029E</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")set wf to wlib's new_workflow()set plist to "settings_v3.plist"set autoSave to wf's get_value("autoSave", plist)
+
+if autoSave then
+tell application "Alfred 3" to run trigger "djsave_ext" in workflow "com.dotson.DJPedro"
+end if</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>A6467502-B9CB-476B-A8DB-B35BA96F7318</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.junction</string>
+			<key>uid</key>
+			<string>610A29EF-D17F-4EE1-B393-EF9258BDFBCB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>keyword</key>
+				<string>dj</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string># THESE VARIABLES MUST BE SET. SEE THE ONEUPDATER README FOR AN EXPLANATION OF EACH.
+readonly remote_info_plist='https://raw.githubusercontent.com/dotson/Discogs-Explorer/master/Source/info.plist'
+readonly workflow_url='https://github.com/dotson/Discogs-Explorer/raw/master/Discogs%20Explorer.alfredworkflow'
+readonly download_type='github_release'
+readonly frequency_check='0'
+
+# FROM HERE ON, CODE SHOULD BE LEFT UNTOUCHED!
+function abort {
+  echo "${1}" &gt;&amp;2
+  exit 1
+}
+
+function url_exists {
+  curl --silent --location --output /dev/null --fail --range 0-0 "${1}"
+}
+
+function notification {
+  readonly local notificator="$(find . -type d -name 'Notificator.app')"
+  if [[ -n "${notificator}" ]]; then
+    "${notificator}/Contents/Resources/Scripts/notificator" --message "${1}" --title "${alfred_workflow_name}" --subtitle 'A new version is available'
+    return
+  fi
+
+  readonly local terminal_notifier="$(find . -type f -name 'terminal-notifier')"
+  if [[ -n "${terminal_notifier}" ]]; then
+    "${terminal_notifier}" -title "${alfred_workflow_name}" -subtitle 'A new version is available' -message "${1}"
+    return
+  fi
+
+  osascript -e "display notification \"${1}\" with title \"${alfred_workflow_name}\" subtitle \"A new version is available\""
+}
+
+# Local sanity checks
+readonly local_info_plist='info.plist'
+readonly local_version="$(/usr/libexec/PlistBuddy -c 'print version' "${local_info_plist}")"
+
+[[ -n "${local_version}" ]] || abort 'You need to set a workflow version in the configuration sheet.'
+[[ "${download_type}" =~ ^(direct|page|github_release)$ ]] || abort "'download_type' (${download_type}) needs to be one of 'direct', 'page', or 'github_release'."
+[[ "${frequency_check}" =~ ^[0-9]+$ ]] || abort "'frequency_check' (${frequency_check}) needs to be a number."
+
+# Check for updates
+if [[ $(find "${local_info_plist}" -mtime +"${frequency_check}"d) ]]; then
+  if ! url_exists "${remote_info_plist}"; then abort "'remote_info_plist' (${remote_info_plist}) appears to not be reachable."; fi # Remote sanity check
+
+  readonly tmp_file="$(mktemp)"
+  curl --silent --location --output "${tmp_file}" "${remote_info_plist}"
+  readonly remote_version="$(/usr/libexec/PlistBuddy -c 'print version' "${tmp_file}")"
+
+  if [[ "${local_version}" == "${remote_version}" ]]; then
+    touch "${local_info_plist}" # Reset timer by touching local file
+    exit 0
+  fi
+
+  if [[ "${download_type}" == 'page' ]]; then
+    notification 'Opening download page…'
+    open "${workflow_url}"
+    exit 0
+  fi
+
+  download_url="$([[ "${download_type}" == 'github_release' ]] &amp;&amp; curl --silent "https://api.github.com/repos/${workflow_url}/releases/latest" | grep 'browser_download_url' | head -1 | sed -E 's/.*browser_download_url": "(.*)"/\1/' || echo "${workflow_url}")"
+
+  if url_exists "${download_url}"; then
+    notification 'Downloading and installing…'
+    curl --silent --location --output "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow" "${download_url}"
+    open "${HOME}/Downloads/${alfred_workflow_name}.alfredworkflow"
+  else
+    abort "'workflow_url' (${download_url}) appears to not be reachable."
+  fi
+fi</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>23CE56C4-CE82-498F-9DEA-9E7BE23E79D7</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>triggerid</key>
+				<string>djsave_ext</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.external</string>
+			<key>uid</key>
+			<string>E5883469-5EEE-4730-B4CA-FE922BC72C13</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>djsave</string>
+				<key>subtext</key>
+				<string>Saves the current playlist to the DJ Pedro folder in iTunes.</string>
+				<key>text</key>
+				<string>DJ Pedro - Save Current Playlist</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D332077E-D652-477F-B22C-825B20960CC1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Dj Pedro Saved!</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>3C984311-F7D5-4F5D-9F93-2E922E7126D2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>0</integer>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")set wf to wlib's new_workflow()set plist to "settings_v3.plist"set theDJPlaylist to wf's get_value("theDJPlaylist", plist)set theSaveFolder to wf's get_value("theSaveFolder", plist)tell application "iTunes"	activate	set frontView to view of front window	set basePlaylist to (name of frontView)		if basePlaylist contains theDJPlaylist then		set artistName to (artist of track 1) of user playlist basePlaylist		set playlistName to (artistName &amp; " Mix")	else		return "Oops! - Please select '" &amp; theDJPlaylist &amp; "' or '" &amp; theDJPlaylist &amp; " alt' to save!"	end if		try		if name of parent of user playlist playlistName is theSaveFolder then			reveal user playlist playlistName			delete every track of user playlist playlistName		end if	on error		make new playlist with properties {name:playlistName}		move user playlist playlistName to folder playlist theSaveFolder			end try	duplicate (every track of user playlist basePlaylist) to user playlist playlistName	reveal user playlist playlistName	return artistName &amp; " Mix saved!"	end tell</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>354EE7EE-B549-4132-8DB3-23AEB993A298</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string>loading preference...</string>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"
+set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")
+set wf to wlib's new_workflow()
+
+set query to "{query}"
+
+set plist to "settings_v3.plist"
+set theDJPlaylist to wf's get_value("theDJPlaylist", plist)
+set playlistSize to wf's get_value("theDJPlaylistSize", plist)
+set artistLimit to wf's get_value("theSearchLimit", plist)
+set addedArtist_repeat to wf's get_value("addedArtist_repeat", plist)
+set theSaveFolder to wf's get_value("theSaveFolder", plist)
+-- END - INITIALIZE THE PLIST, REMOVE OLD VERSIONS --
+
+-- INITIALIZE THE ICONS --
+set settingsIcon to "Icons/settings.png"
+
+tell application "System Events"
+	set stepCount to wlib's q_split(query, ": ")
+	set step to item 1 of stepCount
+	set typedQuery to item 2 of stepCount
+end tell
+
+set updateText to " || Change to: "
+set updateText to " || Change to: " &amp; typedQuery
+
+if step is "Playlist Name" then
+	add_result of wf with isValid given theUid:"", theArg:query, theTitle:"What do you want your playlist named?", theAutocomplete:"", theSubtitle:"Current: " &amp; theDJPlaylist &amp; updateText, theIcon:settingsIcon, theType:""
+
+	else
+
+	if step is "Playlist Length" then
+		add_result of wf with isValid given theUid:"", theArg:query, theTitle:"How many tracks in your playlist?", theAutocomplete:"", theSubtitle:"Current: " &amp; playlistSize &amp; updateText, theIcon:settingsIcon, theType:""
+
+		else
+
+			if step is "Similar Artists" then
+				add_result of wf with isValid given theUid:"", theArg:query, theTitle:"How many similar artists requested from Last.fm?", theAutocomplete:"", theSubtitle:"Current: " &amp; artistLimit &amp; updateText, theIcon:settingsIcon, theType:""
+
+				else
+
+				if step is "Artist Repeat" then
+					add_result of wf with isValid given theUid:"", theArg:query, theTitle:"Maximum number of tracks per artist in a playlist:", theAutocomplete:"", theSubtitle:"Current: " &amp; addedArtist_repeat &amp; updateText, theIcon:settingsIcon, theType:""
+
+					else
+
+						if step is "Save Folder" then
+							add_result of wf with isValid given theUid:"", theArg:query, theTitle:"What do you want your Save Folder named?", theAutocomplete:"", theSubtitle:"Currently " &amp; theSaveFolder &amp; updateText, theIcon:settingsIcon, theType:""
+
+						end if
+					end if
+				end if
+			end if
+		end if
+
+wf's to_xml("")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string></string>
+				<key>title</key>
+				<string>DJ Pedro Preferences</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>266A8884-9CA1-4AD5-8B10-2DB2D56228FF</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>1</integer>
+				<key>matchstring</key>
+				<string>toggle</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>E5D0ECF2-8979-47A0-8D52-FCAB6F523C0E</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>_artists</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>A078B846-702F-4D5B-AA04-19800006B925</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>_save</string>
+				<key>replacestring</key>
+				<string></string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.replace</string>
+			<key>uid</key>
+			<string>527A13B7-56F1-40E0-954C-9CBA2804D266</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>keyword</key>
+				<string>djprefs</string>
+				<key>queuedelaycustom</key>
+				<integer>3</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<true/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>2</integer>
+				<key>runningsubtext</key>
+				<string></string>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"
+set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")
+set wf to wlib's new_workflow()
+
+set query to "{query}"
+
+-- START - INITIALIZE THE PLIST, REMOVE OLD VERSIONS --
+try
+	-- Remove very old plist files --
+	tell application "Finder"
+		set oldPlist to (path to application support from user domain as string)
+		set oldPlist to oldPlist &amp; "Alfred 3:Workflow Data:" &amp; wf's get_bundle() &amp; ":settings.plist"
+		if wlib's q_file_exists(oldPlist) then delete file (oldPlist)
+		
+		set oldPlist to (path to application support from user domain as string)
+		set oldPlist to oldPlist &amp; "Alfred 3:Workflow Data:" &amp; wf's get_bundle() &amp; ":settings_v2.plist"
+		if wlib's q_file_exists(oldPlist) then delete file (oldPlist)
+		
+	end tell
+on error errText
+	return "Step 1 Error: " &amp; errText
+end try
+set preflist to {"theDJPlaylist", "theDJPlaylistSize", "theSearchLimit", "addedArtist_repeat", "showMissing", "theNotFoundList", "alt", "theSaveFolder", "autoSave"}
+set prefvals to {"DJ Pedro", 30, 40, 5, true, "", false, "DJ Pedro Mixes", false}
+repeat with i from 1 to (count of preflist)
+	set mypref to item i of preflist
+	set myval to item i of prefvals
+	if wf's get_value(mypref, "settings_v3.plist") is missing value then wf's set_value(mypref, myval, "settings_v3.plist")
+end repeat
+if wf's get_value("showMissing", "settings_v3.plist") is "enabled" then wf's set_value("showMissing", true, "settings_v3.plist")
+if wf's get_value("showMissing", "settings_v3.plist") is "disabled" then wf's set_value("showMissing", false, "settings_v3.plist")
+if wf's get_value("autoSave", "settings_v3.plist") is "enabled" then wf's set_value("autoSave", true, "settings_v3.plist")
+if wf's get_value("autoSave", "settings_v3.plist") is "disabled" then wf's set_value("autoSave", false, "settings_v3.plist")
+
+set plist to "settings_v3.plist"
+set theDJPlaylist to wf's get_value("theDJPlaylist", plist)
+set playlistSize to wf's get_value("theDJPlaylistSize", plist)
+set artistLimit to wf's get_value("theSearchLimit", plist)
+set addedArtist_repeat to wf's get_value("addedArtist_repeat", plist)
+set showMissing to wf's get_value("showMissing", plist)
+set theSaveFolder to wf's get_value("theSaveFolder", plist)
+set autoSave to wf's get_value("autoSave", plist)
+if showMissing then 
+  set showMissing to "on" 
+  else 
+  set showMissing to "off"
+end if
+if autoSave then 
+  set autoSave to "on" 
+  else 
+  set autoSave to "off"
+end if
+
+-- END - INITIALIZE THE PLIST, REMOVE OLD VERSIONS --
+
+-- INITIALIZE THE ICONS --
+set artistIcon to "Icons/artist.png"
+set settingsIcon to "Icons/settings.png"
+
+tell application "System Events"
+	set stepCount to wlib's q_split(query, ": ")
+end tell
+
+add_result of wf without isValid given theUid:"", theArg:"", theTitle:"DJ Pedro Preferences", theAutocomplete:"", theSubtitle:"Select below to edit or toggle.", theIcon:"", theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"Playlist Name: ", theTitle:"Playlist name", theAutocomplete:"", theSubtitle:"Current: " &amp; theDJPlaylist, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"Playlist Length: ", theTitle:"Playlist length", theAutocomplete:"", theSubtitle:"Current: " &amp; playlistSize, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"Similar Artists: ", theTitle:"Maximum similar artists", theAutocomplete:"", theSubtitle:"Current: " &amp; artistLimit, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"Artist Repeat: ", theTitle:"Maximum tracks per artist", theAutocomplete:"", theSubtitle:"Current: " &amp; addedArtist_repeat, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"Save Folder: ", theTitle:"Save folder name", theAutocomplete:"", theSubtitle:"Current: " &amp; theSaveFolder, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"toggle_save", theTitle:"Toggle auto-save playlist", theAutocomplete:"", theSubtitle:"Current: " &amp; autoSave, theIcon:settingsIcon, theType:""
+
+add_result of wf with isValid given theUid:"", theArg:"toggle_artists", theTitle:"Toggle display of suggested artists", theAutocomplete:"", theSubtitle:"Current: " &amp; showMissing, theIcon:settingsIcon, theType:""
+
+wf's to_xml("")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Select to edit various preferences</string>
+				<key>title</key>
+				<string>DJ Pedro Preferences</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>7ABF3725-70A6-4A75-92B6-3DD493E905AA</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>set workflowFolder to do shell script "pwd"
+set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")
+set wf to wlib's new_workflow()
+
+set query to "{query}"
+set plist to "settings_v3.plist"
+
+if query is "toggle_artists" then
+	set showMissing to wf's get_value("showMissing", plist)
+	if showMissing then
+		wf's set_value("showMissing", false, plist)
+		set txt to "Suggested Artist Display is now off."
+	else
+    if not showMissing then
+  		wf's set_value("showMissing", true, plist)
+  		set txt to "Suggested Artist Display is now on."
+    end if
+  end if
+	return txt
+end if
+
+if query is "toggle_save" then
+	set autoSave to wf's get_value("autoSave", plist)
+	if autoSave then
+		wf's set_value("autoSave", false, plist)
+    set txt to "Playlist Auto-Save is now off."
+	else
+    if not autoSave then
+  		wf's set_value("autoSave", true, plist)
+      set txt to "Playlist Auto-Save is now on."
+    end if
+  end if
+	return txt
+end if
+
+tell application "System Events"
+	set prefsettings to wlib's q_split(query, ": ")
+	set pref to item 1 of prefsettings
+	set val to item 2 of prefsettings
+end tell
+
+if pref is "Playlist Name" then
+	wf's set_value("theDJPlaylist", val as string, plist)
+	set txt to pref &amp; ": " &amp; val
+end if
+
+if pref is "Playlist Length" then
+	set val to (val as number) div 1
+	wf's set_value("theDJPlaylistSize", val as integer, plist)
+	set txt to pref &amp; ": " &amp; val
+end if
+
+if pref is "Similar Artists" then
+	set val to (val as number) div 1
+	wf's set_value("theSearchLimit", val as integer, plist)
+	set txt to pref &amp; ": " &amp; val
+end if
+
+if pref is "Artist Repeat" then
+	set val to (val as number) div 1
+	wf's set_value("addedArtist_repeat", val as integer, plist)
+	set txt to pref &amp; ": " &amp; val
+end if
+
+if pref is "Save Folder" then
+	wf's set_value("theSaveFolder", val as string, plist)
+	set txt to pref &amp; ": " &amp; val
+end if
+
+return txt</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>427D7C95-5D23-4919-9759-1EF045A39827</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<true/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>DJ Pedro Preference Changed</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>8E648D08-97E2-4653-BD53-2C7AFC3D81F1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>toggle_artists</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>D982E1FD-52B5-44BB-AC70-BABAFEF987CD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>inputstring</key>
+				<string>{query}</string>
+				<key>matchcasesensitive</key>
+				<true/>
+				<key>matchmode</key>
+				<integer>0</integer>
+				<key>matchstring</key>
+				<string>toggle_save</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.filter</string>
+			<key>uid</key>
+			<string>D213B216-4B2D-463A-8587-FA41698851D5</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string>+</string>
+				<key>url</key>
+				<string>http://www.last.fm/music/{query}</string>
+				<key>utf8</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>F3C1ED80-31F3-4B6D-83C2-3BF7D1D3E5C4</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>set q to "{query}"tell application "Alfred 3" to run trigger "ls_ext" in workflow "com.dotson.lastsim" with argument q</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>E8CEAAE3-6E9A-4D36-ABE2-8C5EC52DD99B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>alfredfiltersresults</key>
+				<false/>
+				<key>alfredfiltersresultsmatchmode</key>
+				<integer>0</integer>
+				<key>argumenttreatemptyqueryasnil</key>
+				<false/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>keyword</key>
+				<string>⇾</string>
+				<key>queuedelaycustom</key>
+				<integer>1</integer>
+				<key>queuedelayimmediatelyinitially</key>
+				<false/>
+				<key>queuedelaymode</key>
+				<integer>0</integer>
+				<key>queuemode</key>
+				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>Hang on tight...</string>
+				<key>script</key>
+				<string>-- DISPLAY COMPLETED LIST OF SUGGESTED ARTISTS --property apiKey : "99555f4ba834f2b81508f02fd5679fdd"set workflowFolder to do shell script "pwd"set wlib to load script POSIX file (workflowFolder &amp; "/q_workflow.scpt")set wf to wlib's new_workflow()set notFoundList to wf's get_value("theNotFoundList", "settings_v3.plist")set notFoundList to wlib's q_split(notFoundList, ",")set xmlFile to "notFoundTemp.xml"-- INITIALIZE THE ICONS --set artistIcon to "Icons/artist.png"add_result of wf without isValid given theUid:"", theArg:"", theTitle:"Here's a few artists you might like:", theAutocomplete:"", theSubtitle:"Select to visit Last.fm. 'Crtl' for Discogs Explorer. 'Opt' for Last.fm Lookup.", theIcon:"", theType:""set thisCount to 10if (count of notFoundList) is less than thisCount then	set thisCount to count of notFoundListend ifrepeat with i from 1 to thisCount		tell application "System Events"		set theseTags to {}		set thisArtist to item i of notFoundList		set thisEncodedArtist to wf's q_encode_url(thisArtist as string)				set thisArtistLink to "http://ws.audioscrobbler.com/2.0/?method=artist.getInfo&amp;autocorrect=1&amp;api_key=" &amp; apiKey &amp; "&amp;artist="		set thisArtistLink to thisArtistLink &amp; thisEncodedArtist		set thisRequestedXML to wf's request(thisArtistLink)		wf's write_file(thisRequestedXML, xmlFile)		if exists XML element "tags" of XML element "artist" of XML element "lfm" of contents of XML file (wf's get_data() &amp; xmlFile) then			tell XML element "tags" of XML element "artist" of XML element "lfm" of contents of XML file (wf's get_data() &amp; xmlFile)								repeat with thisElement from 1 to (count of XML elements)					set the end of theseTags to (value of (XML elements whose name is "name") of XML element thisElement) as string				end repeat			end tell			if (count of theseTags) is greater than 1 then				set theseTags to wf's q_join(theseTags, ", ")			else				set theseTags to "N/A"			end if		else			set theseTags to "N/A"		end if	end tell		add_result of wf with isValid given theUid:"", theArg:thisArtist, theTitle:thisArtist, theAutocomplete:"", theSubtitle:"Tags: " &amp; theseTags, theIcon:artistIcon, theType:""end repeatwf's to_xml("")</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>subtext</key>
+				<string>Hang on tight...</string>
+				<key>title</key>
+				<string>One second, DJ Pedro's grabbing a few suggestions.</string>
+				<key>type</key>
+				<integer>6</integer>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.scriptfilter</string>
+			<key>uid</key>
+			<string>F18028CB-89A2-4459-B8DB-F447CA8D0449</string>
+			<key>version</key>
+			<integer>3</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>4</integer>
+				<key>script</key>
+				<string>set q to "{query}"tell application "Alfred 3" to run trigger "dex_ext" in workflow "com.dotson.discogsexplorer" with argument q</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>BD903225-E46F-498C-BFD1-E82692C7D86B</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>workflowonly</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.trigger.remote</string>
+			<key>uid</key>
+			<string>E745CF54-D216-468B-B488-04CA206508AD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>readme</key>
+	<string>DJ Pedro
+=====================
+
+*New Feature: Save DJ Pedro Playlist by Artist Name* 
+Read below for the how-to.
+
+Create iTunes playlist based on Last.fm similar artists
+ 
+This workflow uses the Last.fm API for "similar artists" to create and play a playlist based on either the artist of the currently playing song or an artist searched for within the local iTunes Library.
+  
+The workflow is triggered by hotkey or the keyword "dj" and if an argument is added, the workflow searches your iTunes library for artists that match the query.
+
+Settings for the workflow can be modified by triggering the "djprefs" script filter. Available modifications are:
+- Playlist name.
+- Playlist length.
+- Search limit for 'similar artists' the workflow requests from Last.fm.
+- Maximum tracks per artist added to the playlist.
+- Enable/disable the notification that lists any artists suggested by Last.fm that were not found in your Library.
+
+*DJ Save: 
+- Brand new feature provides additional keyword/hotkey that saves the currently displayed DJ Pedro Playlist in it's own artist-specific named playlist.
+- Additional settings in the Prefs window include 
+-- Ability to rename the default DJ Pedro Playlist Folder 
+-- Enable auto-save for every DJ Pedro playlist (Warning! This can cause DJ Pedro to create a lot of playlists! Only enable this if you're sure you want to!)
+
+Credits/Acknowledgments:
+- Much of the script for displaying artists and their artwork was borrowed from the great "Play Song" workflow, by "caleb531", which you should download if you don't have it yet.
+- Additional scripting was improved by using the qWorkflow library developed by "ursanrazvan".
+- DJ Pedro is named after our cat.
+ 
+Notes:
+- This workflow creates a folder in your iTunes folder called "Alfred Album Artwork" for easy access to album artwork icons. This folder should be extremely small and is easily deleted if you delete the workflow.</string>
+	<key>uidata</key>
+	<dict>
+		<key>20E2A8FE-A571-406F-A330-41C0F738A587</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>345</integer>
+		</dict>
+		<key>23CE56C4-CE82-498F-9DEA-9E7BE23E79D7</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>12</integer>
+			<key>note</key>
+			<string>OneUpdater</string>
+			<key>xpos</key>
+			<integer>330</integer>
+			<key>ypos</key>
+			<integer>505</integer>
+		</dict>
+		<key>266A8884-9CA1-4AD5-8B10-2DB2D56228FF</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>420</integer>
+			<key>ypos</key>
+			<integer>790</integer>
+		</dict>
+		<key>354EE7EE-B549-4132-8DB3-23AEB993A298</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>320</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>3C984311-F7D5-4F5D-9F93-2E922E7126D2</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>427D7C95-5D23-4919-9759-1EF045A39827</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>850</integer>
+		</dict>
+		<key>4E667A72-4A57-4265-BC81-248BA948029E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<integer>75</integer>
+			<key>ypos</key>
+			<integer>345</integer>
+		</dict>
+		<key>527A13B7-56F1-40E0-954C-9CBA2804D266</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>320</integer>
+			<key>ypos</key>
+			<integer>820</integer>
+		</dict>
+		<key>610A29EF-D17F-4EE1-B393-EF9258BDFBCB</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>375</integer>
+		</dict>
+		<key>6C557C8B-1FB7-4CA3-9913-560E505BC9A8</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>6C68D0BB-A89A-4FDD-BB99-B5A5B460646E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Builds the list of searched artists in an Alfred window</string>
+			<key>xpos</key>
+			<integer>330</integer>
+			<key>ypos</key>
+			<integer>345</integer>
+		</dict>
+		<key>7ABF3725-70A6-4A75-92B6-3DD493E905AA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>note</key>
+			<string>Open Preference window.</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>850</integer>
+		</dict>
+		<key>8890D249-41B4-4281-AD5C-D983B129ECCA</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>note</key>
+			<string>Trigger object can be added to Remote app. This will turn the currently playing artist into a seed for a new DJ Pedro playlist.</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>8E648D08-97E2-4653-BD53-2C7AFC3D81F1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>740</integer>
+			<key>ypos</key>
+			<integer>850</integer>
+		</dict>
+		<key>A078B846-702F-4D5B-AA04-19800006B925</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>270</integer>
+			<key>ypos</key>
+			<integer>820</integer>
+		</dict>
+		<key>A6467502-B9CB-476B-A8DB-B35BA96F7318</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Auto-save playlist via prefs</string>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>345</integer>
+		</dict>
+		<key>BD903225-E46F-498C-BFD1-E82692C7D86B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>View in Discogs Explorer workflow</string>
+			<key>xpos</key>
+			<integer>330</integer>
+			<key>ypos</key>
+			<integer>1180</integer>
+		</dict>
+		<key>D213B216-4B2D-463A-8587-FA41698851D5</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>940</integer>
+		</dict>
+		<key>D332077E-D652-477F-B22C-825B20960CC1</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>note</key>
+			<string>Manually save your playlist based on artist name</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>660</integer>
+		</dict>
+		<key>D982E1FD-52B5-44BB-AC70-BABAFEF987CD</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>880</integer>
+		</dict>
+		<key>E469295A-B442-434E-AB28-032646DC376B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>note</key>
+			<string>Builds the playlist</string>
+			<key>xpos</key>
+			<integer>515</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>E5883469-5EEE-4730-B4CA-FE922BC72C13</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>8</integer>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>540</integer>
+		</dict>
+		<key>E5D0ECF2-8979-47A0-8D52-FCAB6F523C0E</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>370</integer>
+			<key>ypos</key>
+			<integer>820</integer>
+		</dict>
+		<key>E745CF54-D216-468B-B488-04CA206508AD</key>
+		<dict>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>1180</integer>
+		</dict>
+		<key>E8CEAAE3-6E9A-4D36-ABE2-8C5EC52DD99B</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>View in Last.fm Look-up workflow</string>
+			<key>xpos</key>
+			<integer>500</integer>
+			<key>ypos</key>
+			<integer>1110</integer>
+		</dict>
+		<key>EAAE0C87-97FB-457A-AF41-EDDD70CBAC51</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>9</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>210</integer>
+		</dict>
+		<key>EF6A359C-FD1C-4D85-A9DA-10644BDA9460</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>10</integer>
+			<key>xpos</key>
+			<integer>700</integer>
+			<key>ypos</key>
+			<integer>10</integer>
+		</dict>
+		<key>F18028CB-89A2-4459-B8DB-F447CA8D0449</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>If Suggested Artist List is enabled in the Preferences window, this provides external triggers to view at Last.fm or in the Alfred Workflows "Discogs Explorer" or "Last.fm Look-Up"</string>
+			<key>xpos</key>
+			<integer>120</integer>
+			<key>ypos</key>
+			<integer>1110</integer>
+		</dict>
+		<key>F3C1ED80-31F3-4B6D-83C2-3BF7D1D3E5C4</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>6</integer>
+			<key>note</key>
+			<string>View artist at Last.fm</string>
+			<key>xpos</key>
+			<integer>330</integer>
+			<key>ypos</key>
+			<integer>1010</integer>
+		</dict>
+	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.7.0</string>
+	<key>webaddress</key>
+	<string>https://github.com/dotson/DJ-Pedro</string>
+</dict>
+</plist>

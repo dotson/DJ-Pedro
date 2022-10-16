@@ -18,9 +18,4 @@ This workflow uses the Last.fm API for "similar artists" to create and play a pl
 #### Notes
 - As of version 2.1.0, the workflow uses the Alfred cache to save/display album artwork icons. If you used a previous version of the workflow, you will have a folder in your iTunes or Music folder called "Alfred Album Artwork" which can now be deleted.
 
-#### Troubleshooting
-If you get an error on running the workflow the first time saying "json.helper cannot be opened because the developer cannot be verified." 
-- Visit this guide for Alfred workflows: https://github.com/deanishe/awgo/wiki/Catalina
-
-
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=N67Q99HLLYR9N)

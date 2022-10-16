@@ -20,14 +20,7 @@ This workflow uses the Last.fm API for "similar artists" to create and play a pl
 
 #### Troubleshooting
 If you get an error on running the workflow the first time saying "json.helper cannot be opened because the developer cannot be verified." 
-
-1. Click "Cancel" on the warning dialog.
-2. Open Mac System Preferences
-3. Open Security & Privacy section, then the General tab
-4. At the bottom in the "Allow apps downloaded from" section, you should see a message that says: "json.helper was blocked from use because it is not from an identified developer."
-5. Click the "Allow Anyway" button
-6. You will get another warning about not being able to identify the developer, but now it has an Open button. Click Open.
-7. You show now be able to run the workflow without any future problems (until you upgrade the workflow).
+- Visit this guide for Alfred workflows: https://github.com/deanishe/awgo/wiki/Catalina
 
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=N67Q99HLLYR9N)
